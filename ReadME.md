@@ -8,7 +8,7 @@
 
 + Склонируй репозиторий используя команду
 
-git clone git@github.com:31nkmu/Neobis_Shortener_Project.git
+git@github.com:tturdumamatovv/Neobis_Shortener_Project.git
 + Создай виртуальное окружение используя команду
 
 python3 -m venv <name of your environment> 
